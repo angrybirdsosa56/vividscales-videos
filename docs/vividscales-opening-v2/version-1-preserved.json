@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "git_commit": "e6b56f675c91b0897320d324367f411526e9edef",
+  "composition": "VividScalesAd",
+  "files": {
+    "src/compositions/vividscales-ad/Primitives.tsx": "e588ab49817c566e85f16984a5288a10b2c0dac59a0cd06c0d7a936dd4bd7d6a",
+    "src/compositions/vividscales-ad/design.ts": "eb364a8b205997562f0efa2d36be55945e2b3a2142cbe628eacfd2d2833f7212",
+    "src/compositions/vividscales-ad/Landscape.tsx": "bd1a40f7b17e683daf4b5268017f3c76d27e368c6c70ea69004d3431f2fb166e",
+    "src/compositions/vividscales-ad/VividScalesAd.tsx": "eab01e80c72a4a68e6ece7e56734cfbc9aba9d1515dfb211d2f35bfeb79a3585",
+    "src/compositions/vividscales-ad/Scenes.tsx": "85602095d59e112049bdb98ae723708ac3b77396484aeb083ae2e7df7336b2fc",
+    "videos/VividScales-Landscaping-30s.mp4": "5924e82932a67610f2f8ef8260a4f73af812aa4e83ab85159f1ab074518ecc24",
+    "public/audio/vividscales-ad.wav": "40686fbc689abf4f47434a317aa1d66476b307d4638aacf04b913ccf4b2c7117"
+  }
+}
