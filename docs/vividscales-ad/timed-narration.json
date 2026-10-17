@@ -1,0 +1,72 @@
+[
+  {
+    "scene": "S1",
+    "start": 0.15,
+    "end": 2.85,
+    "frame_start": 5,
+    "frame_end": 86,
+    "text": "You're mowing. A customer wants a quote.",
+    "word_count": 7,
+    "approx_wpm": 156
+  },
+  {
+    "scene": "S2",
+    "start": 3.32,
+    "end": 6.66,
+    "frame_start": 100,
+    "frame_end": 200,
+    "text": "But you can't stop every job to answer messages.",
+    "word_count": 9,
+    "approx_wpm": 162
+  },
+  {
+    "scene": "S3",
+    "start": 7.33,
+    "end": 9.61,
+    "frame_start": 220,
+    "frame_end": 288,
+    "text": "VividScales helps keep those conversations moving.",
+    "word_count": 6,
+    "approx_wpm": 158
+  },
+  {
+    "scene": "S4",
+    "start": 10.3,
+    "end": 15.2,
+    "frame_start": 309,
+    "frame_end": 456,
+    "text": "Respond to inquiries, collect job details, and keep it all organized.",
+    "word_count": 11,
+    "approx_wpm": 135
+  },
+  {
+    "scene": "S5",
+    "start": 17.15,
+    "end": 22.45,
+    "frame_start": 515,
+    "frame_end": 674,
+    "text": "And follow up on estimates, so a busy day doesn't mean a forgotten conversation.",
+    "word_count": 14,
+    "approx_wpm": 158
+  },
+  {
+    "scene": "S6",
+    "start": 22.7,
+    "end": 25.85,
+    "frame_start": 681,
+    "frame_end": 776,
+    "text": "Focus on the work. Stay on top of inquiries.",
+    "word_count": 9,
+    "approx_wpm": 171
+  },
+  {
+    "scene": "S7",
+    "start": 26.55,
+    "end": 28.8,
+    "frame_start": 797,
+    "frame_end": 864,
+    "text": "Book your free VividScales demo.",
+    "word_count": 5,
+    "approx_wpm": 133
+  }
+]

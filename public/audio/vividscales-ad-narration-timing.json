@@ -1,0 +1,91 @@
+{
+  "title": "VividScales \u2014 landscaping advertisement",
+  "audio": "public/audio/vividscales-ad.wav",
+  "durationSeconds": 30,
+  "sampleRate": 48000,
+  "channels": 2,
+  "narrationIncluded": false,
+  "narrationStatus": "No natural voice-generation tool was available. Exact timed narration script is supplied for recording.",
+  "mixNotes": "Original synthesized music and interface cues, no third-party samples. Music ducks 13 dB only when timed narration is supplied. Music and effects are silent from 28.4 s through the last frame.",
+  "narrationWordCount": 61,
+  "narration": [
+    {
+      "scene": 1,
+      "startSeconds": 0.18,
+      "endSeconds": 2.75,
+      "startFrame": 5,
+      "endFrame": 82,
+      "text": "You're mowing. A customer wants a quote."
+    },
+    {
+      "scene": 2,
+      "startSeconds": 3.12,
+      "endSeconds": 6.78,
+      "startFrame": 94,
+      "endFrame": 203,
+      "text": "But you can't stop every job to answer messages."
+    },
+    {
+      "scene": 3,
+      "startSeconds": 7.1,
+      "endSeconds": 9.86,
+      "startFrame": 213,
+      "endFrame": 296,
+      "text": "VividScales helps keep those conversations moving."
+    },
+    {
+      "scene": 4,
+      "startSeconds": 10.12,
+      "endSeconds": 16.55,
+      "startFrame": 304,
+      "endFrame": 496,
+      "text": "Respond to inquiries, collect job details, and keep it all organized."
+    },
+    {
+      "scene": 5,
+      "startSeconds": 17.12,
+      "endSeconds": 22.55,
+      "startFrame": 514,
+      "endFrame": 676,
+      "text": "And follow up on estimates, so a busy day doesn't mean a forgotten conversation."
+    },
+    {
+      "scene": 6,
+      "startSeconds": 22.7,
+      "endSeconds": 25.72,
+      "startFrame": 681,
+      "endFrame": 772,
+      "text": "Focus on the work. Stay on top of inquiries."
+    },
+    {
+      "scene": 7,
+      "startSeconds": 26.2,
+      "endSeconds": 28.35,
+      "startFrame": 786,
+      "endFrame": 850,
+      "text": "Book your free VividScales demo."
+    }
+  ],
+  "sfxSeconds": [
+    0.4,
+    4.8,
+    10.4,
+    11.8,
+    13.2,
+    14.6,
+    17.7,
+    20.8,
+    26.9
+  ],
+  "transitionSeconds": [
+    7,
+    10,
+    17,
+    23,
+    26
+  ],
+  "peakDbfs": -9.04,
+  "rmsDbfs": -23.74,
+  "reproduce": "python scripts/generate-ad-audio.py",
+  "withVoice": "python scripts/generate-ad-audio.py --narration /path/to/timed-30s-pcm16-48k.wav"
+}

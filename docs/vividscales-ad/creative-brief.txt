@@ -1,0 +1,98 @@
+Create and render a complete 30-second VividScales advertisement using Remotion.
+
+GOAL
+Get landscaping business owners to book a free demo. The problem and benefit must be understandable immediately, including with sound off.
+
+INPUTS
+- Logo: [INSERT FILE PATH]. Use it exactly as supplied. Do not redraw, recolor, stretch, or re-typeset it.
+- Preserve the existing 5-second sample. Build this as a separate composition.
+- Inspect the project and the installed Remotion skills before editing.
+
+CONCEPT
+"You're on the job. Your next customer is waiting."
+Follow one fictional customer inquiry from arrival to follow-up. The customer is named Alex throughout. Use a clearly illustrative interface demonstration. No testimonials, performance statistics, revenue figures, or guaranteed results.
+
+STYLE
+Premium 2D motion graphics: iPhone-inspired messaging interface, bold typography, simple landscaping illustrations.
+- Palette: near-black, warm white, and green sampled from the logo. Muted amber only for unanswered or waiting states.
+- Large type, uncluttered layouts, interface text readable on a phone.
+- No 3D, generic robots, AI brains, random particles, or excessive glow.
+- Transitions must connect the story (for example, notifications flowing into the branded interface).
+
+FORMAT
+1080 x 1920 portrait, 30 fps, exactly 900 frames (30.00 s).
+Deliver a high-quality H.264 MP4 and the editable source.
+
+SAFE ZONES
+Keep all essential text, logo, and UI at least 250 px from the top, 400 px from the bottom, and 60 px from each side. Backgrounds may extend into these areas.
+
+DISCLOSURE LABEL
+"Example workflow" appears as a small, readable label on every scene that shows a fictional message or interface (scenes 1 through 5), and stays visible through the CTA scene's background only if it is not competing with the CTA.
+
+FRAME MAP
+S1 0-90 | S2 90-210 | S3 210-300 | S4 300-510 | S5 510-690 | S6 690-780 | S7 780-900
+
+STORYBOARD AND EXACT NARRATION
+
+S1, 0-3s (frames 0-90): HOOK
+Visual: Open immediately on a large incoming message from Alex: "Hi! Can I get a quote for weekly lawn care?" Behind it, a simple 2D mower crosses a lawn. Small label: "LANDSCAPING OWNERS."
+Headline: "Working a job?" then "Your next customer is waiting."
+Narration: "You're mowing. A customer wants a quote."
+
+S2, 3-7s (frames 90-210): THE PROBLEM
+Visual: The mower continues. The inquiry stays unanswered. A restrained time-passage cue: an amber "Unanswered · 3 hrs" tag on the message (a visual cue, not a statistic). A second notification appears: "Follow up on yesterday's estimate."
+Headline: "Inquiries. Estimates. Follow-ups."
+Narration: "But you can't stop every job to answer messages."
+
+S3, 7-10s (frames 210-300): THE SOLUTION
+Visual: A clean green transition gathers the notifications into one branded interface. Introduce the supplied logo without a long logo animation.
+Headline: "Put follow-up to work."
+Narration: "VividScales helps keep those conversations moving."
+
+S4, 10-17s (frames 300-510): THE MECHANISM
+Visual: Contact header "Alex." Reveal messages sequentially, about 1.3 s apart, holding the last for about 2 s of reading time:
+  Alex: "Can I get a quote for weekly lawn care?"
+  Business: "Happy to help. What's the property address?"
+  Alex: "124 Oak Lane."
+  Business: "Thanks! What size is the lawn?"
+Supporting labels, timed to their narration words: "Respond" / "Collect details" / "Organize the inquiry." Keep "Example workflow" visible.
+Narration: "Respond to inquiries, collect job details, and keep it all organized."
+
+S5, 17-23s (frames 510-690): FOLLOW-UP
+Visual: Transition to the estimate follow-up in Alex's thread:
+  Business: "Hi Alex, any questions about your estimate?"
+Then a simple workflow: "Estimate sent → Follow-up → Customer reply."
+  Alex: "Could we discuss starting next week?"
+Do not show a sale, payment, or invented revenue.
+Headline: "Keep the conversation going."
+Narration: "And follow up on estimates, so a busy day doesn't mean a forgotten conversation."
+
+S6, 23-26s (frames 690-780): BENEFIT
+Visual: Return to the landscaping scene. The owner finishes a clean strip of lawn. An organized inquiry card sits beside the scene.
+Headline: "Focus on the job." then "Stay on top of inquiries."
+Narration: "Focus on the work. Stay on top of inquiries."
+Audio: Start this line at about 22.7 s so it overlaps the end of S5.
+
+S7, 26-30s (frames 780-900): SINGLE CALL TO ACTION
+Visual: Supplied logo, then a small "See it work for your business," then the large CTA "Book your free demo." with vividscales.com beneath. The CTA is the largest text in the scene; the headline is clearly secondary. Hold the CTA, logo, and URL through the final frame. No competing actions. Do not invent a booking URL.
+Narration: "Book your free VividScales demo."
+Audio: Music fades out before the final hold; a soft sound effect lands on the CTA.
+
+ACCURACY OF CLAIMS
+Only depict capabilities supported by the actual VividScales offer. Verify these three against project materials: (1) responding to inquiries, (2) collecting job details, (3) following up on estimates. Do not imply automation, team features, integrations, or a completed deployment unless verified. Mark any unverified scene as a "proposed demonstration for review" in the delivery report.
+
+AUDIO
+- Use a clear, natural commercial voice if voice generation is available. Fit each line to its scene without rushing or cutting words. Narration is about 60 words total.
+- Subtle sound effects (message pop, soft whoosh on transitions, one soft tone on the CTA).
+- Duck music a fixed amount (about 12-15 dB) under speech.
+- If voice generation is unavailable, deliver the video plus a timed narration script, and state that limitation.
+
+PRODUCTION
+- Build reusable components: message bubble, notification, contact header, label tag, workflow chip row, headline, logo lockup.
+- Frame-based animation with controlled easing. Smooth, purposeful transitions.
+
+QUALITY CONTROL
+Render and inspect representative frames from every scene, including the last frame. Check: text size, reading time, message cropping, logo accuracy, alignment, safe zones, and transitions. Review the rendered sequence with available tools, fix visible problems, then render the final MP4.
+
+DELIVERY
+Do not stop after writing code. Deliver the rendered MP4 and the source, list file locations, and report any production or verification limitations, including which scenes (if any) are proposed demonstrations.
